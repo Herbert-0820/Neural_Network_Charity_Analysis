@@ -22,7 +22,7 @@ Attempt 1: Removed additional feature, that is the 'USE_CASE' column. Rest of th
 Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 53%.
 Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 50%.
 
-![alt text](https://github.com/Herbert-0820/School_District_Analysis/blob/main/Screen%20Shot%202021-09-24%20at%209.00.40%20PM.png)
+![alt text](https://github.com/Herbert-0820/Neural_Network_Charity_Analysis/blob/main/WechatIMG28.jpeg)
 
 
 
