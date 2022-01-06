@@ -1,5 +1,5 @@
 # Neural_Network_Charity_Analysis
-# Overview and the school district analysis
+# Overview analysis
 
 The project will help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. The dataset is composed by the columns (EIN, APPLICATION_TYPE, AFFOLIATION, CLASSIFICATION, USER_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONDIERATIONS, ASK_AMT, and IS_SUCCESSFUL).
 
