@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 # Overview and the school district analysis
 
-Maria the chief data scientist for a city school district is responsible for analyzing information from a variety of sources, and in a variety of formats. Preparaing all standardized test data for analysis, reporting and presentation to provide insights about performance trends and patterns will be used to inform discussions and strategic decisions at the school and district level. The data needs to be analyzed on student funding and students' satandardized test scores. Math scores, reading scores and information on the schools they attend will be given. The project will aggregate the data and showcase trends in shcool performance to assist the school board and superintendent in making decisons regarding the school budgets and priorites.
+The project will help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. The dataset is composed by the columns (EIN, APPLICATION_TYPE, AFFOLIATION, CLASSIFICATION, USER_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONDIERATIONS, ASK_AMT, and IS_SUCCESSFUL).
 
 
 # Results
