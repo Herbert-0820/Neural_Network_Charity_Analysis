@@ -6,7 +6,10 @@ The project will help Beks create a binary classifier that is capable of predict
 
 # Results
 
+## Data Processing
 
+
+## Compiling, Training, and Evaluating the Model
 ![alt text](https://github.com/Herbert-0820/School_District_Analysis/blob/main/Screen%20Shot%202021-09-24%20at%209.00.40%20PM.png)
 
 
